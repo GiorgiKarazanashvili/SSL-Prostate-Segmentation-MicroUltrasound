@@ -66,8 +66,8 @@ Training curves reveal that the primary benefit of pretraining is faster converg
 
 ```
 ├── CS675_Project.ipynb                                          # Full pipeline (data loading through evaluation)
-├── CS675_SSL Prostate Segmentation_Giorgi_Karazanashvili.pdf     # ICASSP-format paper (4 pages)
-├── cs675_ProstateSegmentation.pptx                              # Slide deck
+├── CS675_SSL Prostate Segmentation_Giorgi_Karazanashvili.pdf     # Report 
+├── cs675_ProstateSegmentation.pptx                              # Slides
 ├── figures/                                                     # Result figures
 └── README.md
 ```
